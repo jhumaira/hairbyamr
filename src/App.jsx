@@ -1,4 +1,4 @@
-// src/App.jsx
+// src/App.jsx oh no
 import React from 'react';
 import Navbar from './navbar';
 import HeroBanner from './components/HeroBanner';
